@@ -1,2 +1,2 @@
-# html-css
-HTML-CSS
+# HTML-CSS
+HTML-CSS exercise
